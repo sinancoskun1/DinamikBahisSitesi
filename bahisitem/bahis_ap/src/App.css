@@ -1,0 +1,7 @@
+
+.card-title{
+  white-space: nowrap;      /* tek satır */
+  overflow: hidden;         /* taşan kısmı gizle */
+  text-overflow: ellipsis;  /* ... ile göster */
+
+}
